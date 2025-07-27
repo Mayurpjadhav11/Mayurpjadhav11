@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Autonomous Systems | Traffic Modeling | Ex-TCS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&height=60&lines=AI+Engineer+%7C+Autonomous+Systems+Specialist;Reinforcement+Learning+%26+Traffic+Prediction+Expert;Python+%7C+MATLAB+%7C+Simulink+Lover;From+Mechanical+to+Machine+Learning;Building+Intelligent+Systems+That+Drive+The+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&height=60&lines=AI+Engineer+%7C+Autonomous+Systems+Specialist;Reinforcement+Learning+%26+Traffic+Prediction;Python+%7C+MATLAB+%7C+Simulink;From+Mechanical+to+Machine+Learning;Building+Intelligent+Systems+That+Drive+The+Future" />
 </p>
 
 

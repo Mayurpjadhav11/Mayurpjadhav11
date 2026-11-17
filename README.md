@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&lines=Building+LLM-based+%26+agentic+AI+workflows;Evaluating+them+with+MLflow%2C+benchmarks+%26+failure+analysis;RAG+systems+that+know+when+to+say+%22I+don't+know%22;Reinforcement+Learning+%7C+Sensor+Fusion+%7C+ADAS" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&lines=Building+LLM-based+%26+agentic+AI+workflows;Evaluating+them+with+MLflow%2C+benchmarks+%26+failure+analysis;RAG+systems+that+know+when+to+say+%22I+don't+know%22;Reinforcement+Learning+%7C+Sensor+Fusion+%7C+ADAS" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -83,18 +83,16 @@ Document intelligence system with hybrid retrieval, evidence verification, confi
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Mayurpjadhav11/roadview-bevfusion-1cam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=roadview-bevfusion-1cam&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mayurpjadhav11/rag-document-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=rag-document-platform&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mayurpjadhav11/Reinforcement-Learning---The-Journey-to-the-Secret-Ninja-Scroll-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=Reinforcement-Learning---The-Journey-to-the-Secret-Ninja-Scroll-&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mayurpjadhav11/LSTM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=LSTM&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mayurpjadhav11/house-price-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=house-price-predictor&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mayurpjadhav11/FaceMaskDetection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayurpjadhav11&repo=FaceMaskDetection&theme=tokyonight&hide_border=true" /></a>
-</p>
+### 📦 Open-Source Repositories
+
+| Repository | What it does | Tech |
+|---|---|---|
+| 🚗 [**roadview-bevfusion-1cam**](https://github.com/Mayurpjadhav11/roadview-bevfusion-1cam) | Single-camera and LiDAR BEVFusion training and deployment on NVIDIA DRIVE AGX Orin | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| 📄 [**rag-document-platform**](https://github.com/Mayurpjadhav11/rag-document-platform) | AI-powered document Q&A platform using RAG, local LLMs and vector search | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| 🎮 [**Deep Q-Learning Agent**](https://github.com/Mayurpjadhav11/Reinforcement-Learning---The-Journey-to-the-Secret-Ninja-Scroll-) | DQN agent that navigates a custom grid world, avoiding obstacles to reach a goal | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| 📈 [**LSTM**](https://github.com/Mayurpjadhav11/LSTM) | Time-series forecasting of CPU usage, disk usage and node counts to predict system overloads | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 🏠 [**house-price-predictor**](https://github.com/Mayurpjadhav11/house-price-predictor) | End-to-end ML pipeline predicting California house prices with Linear Regression and Random Forest | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
+| 😷 [**FaceMaskDetection**](https://github.com/Mayurpjadhav11/FaceMaskDetection) | CNN-based face mask detection with a React frontend | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
 
 <details>
 <summary><b>📂 More projects & research</b></summary>
@@ -129,14 +127,12 @@ Document intelligence system with hybrid retrieval, evidence verification, confi
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayurpjadhav11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurpjadhav11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurpjadhav11&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Mayurpjadhav11?label=Followers&style=for-the-badge&logo=github&color=00C2FF" />
+  <img src="https://img.shields.io/github/stars/Mayurpjadhav11?label=Stars&style=for-the-badge&logo=github&color=00C2FF" />
+  <img src="https://komarev.com/ghpvc/?username=Mayurpjadhav11&label=Profile%20Views&style=for-the-badge&color=0F2027" />
 </p>
 
 ---
